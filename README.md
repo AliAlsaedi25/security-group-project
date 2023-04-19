@@ -15,7 +15,7 @@ after encrpyting you data make sure you change the name of the file in the bigra
 
 after training for 5000 (max_iters) steps it will generate a new file that has encrypted output 
 
-take that file aand decrpt it with the same key you encrypted it with 
+take that file aand decrypt it with the same key you encrypted it with 
 
 you will see the model was able to mimic the data in which it was trained on 
 

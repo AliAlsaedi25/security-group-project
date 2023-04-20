@@ -27,3 +27,8 @@
   - The full implementation of this encryption scheme was out of scope for this project and altered decrypted values when trying to restrict the bounds of encrypted cipher values
 - cipher.txt & decrypt.txt are files which show where and how we missed the mark on trying to implement homorphic encryption within this project. 
 - test_encrypt.py is the Shift Cipher encryption used for this project and as well as our language model. It is used during decryption as well.
+
+## External Resources 
+- Attention is All You Need paper: https://arxiv.org/abs/1706.03762
+- OpenAI GPT-3 paper: https://arxiv.org/abs/2005.14165
+- Torch Documentation give that a read to undersand what I have done here https://pytorch.org/docs/stable/index.html

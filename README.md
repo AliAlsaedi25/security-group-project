@@ -1,7 +1,7 @@
 ### security-group-project
 # Protecting integrity in L.L.M.
 
-### By - Ali, Victor, Calvin, Ian, Aaron 
+### By - Ali, Victor, Calvin, Ian
 
 ## Overview
 - This repository holds our language model which is trained to mimic and produce text based on the given input. The output is meant to be both syntactically and idiolectically.
